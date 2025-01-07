@@ -16,7 +16,7 @@ public class TestCases {
 	String UserName = "standard_user";
 	String Password = "secret_sauce";
 	Random rand=new Random();
-
+//this is the first project
 	@BeforeTest
 	public void setup() {
 
